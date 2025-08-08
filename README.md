@@ -24,7 +24,7 @@ Sisteme uygun ChromeDriver indirilip çalıştığınız klasöre atılmalı vey
 
 `git clone https://github.com/fy-9/Assasin-Dork-Scanner`
 
-`pip install selenium`
+`pip install -r requirements.txt`
 
 ## ▶️ Kullanım
 
