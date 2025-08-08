@@ -2,7 +2,7 @@
 
 Assasin Dork Scanner, Google üzerinden özel dork sorguları ile hedef sistemler hakkında bilgi toplayan bir araçtır.
 
-## Özellikler
+## ℹ️ Özellikler
 
 Google dorklarını otomatik olarak arar
 
@@ -16,7 +16,7 @@ Selenium tabanlıdır
 
 Headless (tarayıcıyı göstermeden çalışma) desteği vardır
 
-## Kurulum
+## 🛠️ Kurulum
 
 Python 3.8+ sürümü ve Google Chrome yüklü olmalıdır.
 
@@ -26,7 +26,7 @@ Sisteme uygun ChromeDriver indirilip çalıştığınız klasöre atılmalı vey
 
 `pip install selenium`
 
-## Kullanım
+## ▶️ Kullanım
 
 **main.py** dosyasını bir klasöre çıkarın. Sonrasında **dorks.txt** ve **cikti.txt** dosyaları oluşturun.
 
@@ -40,5 +40,5 @@ dorks.txt dosyasının içine dorkları yazın.
 
 -v: Toplam kaç sonuç isteniyor (örneğin 90 sonuç, 3 dork varsa 30'ar sonuç şeklinde ayrılır)
 
-Yasal Uyarı
+## ⚠️ Yasal Uyarı
 Bu araç yalnızca **eğitim**, **test**, **siber güvenlik araştırmaları** ve **bilgi amaçlı** geliştirilmiştir. Yetkisiz sistemlere erişim sağlamak, bu aracı kötüye kullanmak yasal olarak suçtur. Tüm sorumluluk kullanıcıya aittir.
