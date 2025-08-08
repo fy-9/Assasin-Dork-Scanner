@@ -30,6 +30,8 @@ Sisteme uygun ChromeDriver indirilip çalıştığınız klasöre atılmalı vey
 
 **main.py** dosyasını bir klasöre çıkarın. Sonrasında **dorks.txt** ve **cikti.txt** dosyaları oluşturun.
 
+dorks.txt dosyasının içine dorkları yazın.
+
 Örnek kullanım: `python main.py -d dorks.txt -s cikti.txt -v 90`
 
 -d: Dork listesini içeren dosya
