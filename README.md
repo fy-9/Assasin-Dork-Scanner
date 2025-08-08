@@ -1,4 +1,4 @@
-# Assasin-Dork-Scanner
+# Assasin Dork Scanner
 
 Assasin Dork Scanner, Google üzerinden özel dork sorguları ile hedef sistemler hakkında bilgi toplayan bir araçtır.
 
@@ -20,9 +20,11 @@ Headless (tarayıcıyı göstermeden çalışma) desteği vardır
 
 Python 3.8+ sürümü ve Google Chrome yüklü olmalıdır.
 
-`pip install selenium`
-
 Sisteme uygun ChromeDriver indirilip çalıştığınız klasöre atılmalı veya PATH'e eklenmelidir.
+
+`git clone https://github.com/fy-9/Assasin-Dork-Scanner`
+
+`pip install selenium`
 
 ## Kullanım
 
